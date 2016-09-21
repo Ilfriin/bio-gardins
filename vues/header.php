@@ -53,13 +53,13 @@
                         <a href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#services">Qui sommes-nous</a>
+                        <a class="page-scroll" href="#about">Qui sommes-nous</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#portfolio">Sorties</a>
+                        <a class="page-scroll" href="#sorties">Sorties</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#about">Blog</a>
+                        <a class="page-scroll" href="#blog">Blog</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#team">Nous rejoindre</a>
