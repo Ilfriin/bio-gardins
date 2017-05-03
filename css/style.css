@@ -1,0 +1,16 @@
+.partners > a{
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+.partners{
+  padding: 3%;
+}
+
+footer{
+  background-color: #EEEEEE;
+}
+
+.liens{
+  color: rgb(51,51,51);
+}

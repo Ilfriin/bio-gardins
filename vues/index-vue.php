@@ -41,7 +41,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Prochaines sorties</h2>
+                <h2 class="section-heading"><a class="liens" href="sortie.php">Prochaines sorties</a></h2>
                 <h3 class="section-subheading text-muted"></h3>
             </div>
         </div>
@@ -50,7 +50,7 @@
                 <ul class="timeline">
                     <li>
                         <div class="timeline-image">
-                            <img class="img-circle img-responsive" src="img/papillons.jpg" width="200px;" alt="">
+                            <img class="img-circle img-responsive" src="img/sorties/papillons.jpg" width="200px;" alt="">
                         </div>
                         <div class="timeline-panel" style="margin-top: 30px;">
                             <div class="timeline-heading">
@@ -64,7 +64,7 @@
                     </li>
                     <li class="timeline-inverted">
                         <div class="timeline-image">
-                          <img class="img-circle img-responsive" src="img/champ.jpg" width="200px;" alt="">
+                          <img class="img-circle img-responsive" src="img/sorties/champ.jpg" width="200px;" alt="">
                         </div>
                         <div class="timeline-panel" style="margin-top: 30px;">
                             <div class="timeline-heading">
@@ -78,7 +78,7 @@
                     </li>
                     <li>
                         <div class="timeline-image">
-                            <img class="img-circle img-responsive" src="img/dago.jpg" width="200px;" alt="">
+                            <img class="img-circle img-responsive" src="img/sorties/dago.jpg" width="200px;" alt="">
                         </div>
                         <div class="timeline-panel" style="margin-top: 30px;">
                             <div class="timeline-heading">
@@ -113,11 +113,11 @@
                             <i class="fa fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img src="img/blog/roundicons.png" class="img-responsive" alt="">
+                    <img src="img/blog/img1.jpg" class="img-responsive" alt="">
                 </a>
                 <div class="blog-caption">
-                    <h4>Round Icons</h4>
-                    <p class="text-muted">Graphic Design</p>
+                    <h4>Article 1</h4>
+                    <p class="text-muted">Lorem ipsum</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 blog-item">
@@ -127,11 +127,11 @@
                             <i class="fa fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img src="img/blog/startup-framework.png" class="img-responsive" alt="">
+                    <img src="img/blog/img2.jpg" class="img-responsive" alt="">
                 </a>
                 <div class="blog-caption">
-                    <h4>Startup Framework</h4>
-                    <p class="text-muted">Website Design</p>
+                    <h4>Article 2</h4>
+                    <p class="text-muted">Lorem ipsum</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 blog-item">
@@ -141,53 +141,11 @@
                             <i class="fa fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img src="img/blog/treehouse.png" class="img-responsive" alt="">
+                    <img src="img/blog/img3.jpg" class="img-responsive" alt="">
                 </a>
                 <div class="blog-caption">
-                    <h4>Treehouse</h4>
-                    <p class="text-muted">Website Design</p>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-6 blog-item">
-                <a href="#blogModal4" class="blog-link" data-toggle="modal">
-                    <div class="blog-hover">
-                        <div class="blog-hover-content">
-                            <i class="fa fa-plus fa-3x"></i>
-                        </div>
-                    </div>
-                    <img src="img/blog/golden.png" class="img-responsive" alt="">
-                </a>
-                <div class="blog-caption">
-                    <h4>Golden</h4>
-                    <p class="text-muted">Website Design</p>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-6 blog-item">
-                <a href="#blogModal5" class="blog-link" data-toggle="modal">
-                    <div class="blog-hover">
-                        <div class="blog-hover-content">
-                            <i class="fa fa-plus fa-3x"></i>
-                        </div>
-                    </div>
-                    <img src="img/blog/escape.png" class="img-responsive" alt="">
-                </a>
-                <div class="blog-caption">
-                    <h4>Escape</h4>
-                    <p class="text-muted">Website Design</p>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-6 blog-item">
-                <a href="#blogModal6" class="blog-link" data-toggle="modal">
-                    <div class="blog-hover">
-                        <div class="blog-hover-content">
-                            <i class="fa fa-plus fa-3x"></i>
-                        </div>
-                    </div>
-                    <img src="img/blog/dreams.png" class="img-responsive" alt="">
-                </a>
-                <div class="blog-caption">
-                    <h4>Dreams</h4>
-                    <p class="text-muted">Website Design</p>
+                    <h4>Article 3</h4>
+                    <p class="text-muted">Lorem ipsum</p>
                 </div>
             </div>
         </div>
@@ -196,73 +154,18 @@
 
 <!-- Clients Aside -->
 <aside class="clients">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-3 col-sm-6">
-                <a href="#">
-                    <img src="img/logos/gon.png" class="img-responsive img-centered" width="150px" alt="">
-                </a>
-            </div>
-            <div class="col-md-3 col-sm-6" style="margin-top: 30px">
-                <a href="#">
-                    <img src="img/logos/sirf.png" class="img-responsive img-centered" width="85%" alt="">
-                </a>
-            </div>
-            <div class="col-md-3 col-sm-6" style="margin-top: 15px">
-                <a href="#">
-                    <img src="img/logos/terrils.jpg" class="img-responsive img-centered" width="80%" alt="">
-                </a>
-            </div>
-            <div class="col-md-3 col-sm-6" style="margin-top: 25px">
-                <a href="#">
-                    <img src="img/logos/rubrouk.jpg" class="img-responsive img-centered" width="100%" alt="">
-                </a>
-            </div>
-        </div>
+  <div class="container">
+    <div class="text-center partners">
+      <h3>Nos partenaires</h3>
+      <a href="http://gon.fr/gon/" target="_blank">
+          <img src="img/logos/gon.png" class="" height="100px" alt="">
+      </a>
+      <a href="http://www.sirf.eu/" target="_blank">
+          <img src="img/logos/sirf.png" class="" height="100px" alt="">
+      </a>
+      <a href="http://www.chainedesterrils.eu/" target="_blank">
+          <img src="img/logos/terrils.jpg" class="" height="100px" alt="">
+      </a>
     </div>
+  </div>
 </aside>
-
-<!-- Contact Section -->
-<section id="contact">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Contact Us</h2>
-                <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-12">
-                <form name="sentMessage" id="contactForm" novalidate>
-                    <div class="row">
-                        <div class="col-md-6">
-                            <div class="form-group">
-                                <input type="text" class="form-control" placeholder="Your Name *" id="name" required data-validation-required-message="Please enter your name.">
-                                <p class="help-block text-danger"></p>
-                            </div>
-                            <div class="form-group">
-                                <input type="email" class="form-control" placeholder="Your Email *" id="email" required data-validation-required-message="Please enter your email address.">
-                                <p class="help-block text-danger"></p>
-                            </div>
-                            <div class="form-group">
-                                <input type="tel" class="form-control" placeholder="Your Phone *" id="phone" required data-validation-required-message="Please enter your phone number.">
-                                <p class="help-block text-danger"></p>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="form-group">
-                                <textarea class="form-control" placeholder="Your Message *" id="message" required data-validation-required-message="Please enter a message."></textarea>
-                                <p class="help-block text-danger"></p>
-                            </div>
-                        </div>
-                        <div class="clearfix"></div>
-                        <div class="col-lg-12 text-center">
-                            <div id="success"></div>
-                            <button type="submit" class="btn btn-xl">Send Message</button>
-                        </div>
-                    </div>
-                </form>
-            </div>
-        </div>
-    </div>
-</section>
