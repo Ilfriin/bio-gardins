@@ -1,7 +1,7 @@
 <?php
 class Database{
   private $host     = 'localhost';
-  private $dbname   = "bio-gardin";
+  private $dbname   = "bio-gardins";
   private $username = "root";
   private $password = "";
 
